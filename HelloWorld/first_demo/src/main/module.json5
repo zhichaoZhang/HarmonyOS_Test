@@ -1,0 +1,28 @@
+{
+  "module": {
+    "name": "first_demo",
+    "type": "feature",
+    "description": "$string:module_desc",
+    "mainElement": "First_demoAbility",
+    "deviceTypes": [
+      "phone",
+      "tablet"
+    ],
+    "deliveryWithInstall": true,
+    "installationFree": false,
+    "pages": "$profile:main_pages",
+    "abilities": [
+      {
+        "name": "First_demoAbility",
+        "srcEntry": "./ets/first_demoability/First_demoAbility.ts",
+        "description": "$string:First_demoAbility_desc",
+        "icon": "$media:icon",
+        "label": "$string:First_demoAbility_label",
+        "launchType": "specified",
+        "startWindowIcon": "$media:icon",
+        "startWindowBackground": "$color:start_window_background",
+        "exported": true
+      }
+    ]
+  }
+}

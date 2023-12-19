@@ -1,0 +1,11 @@
+{
+  "src": [
+    "pages/IndexPage",
+    "pages/HelloWorld",
+    "pages/Second",
+    "pages/RankPage",
+    "pages/component/LazyList",
+    "pages/component/TabComponent",
+    "pages/TargetManagement"
+  ]
+}

@@ -1,0 +1,188 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "label"
+    },
+    {
+      "name": "page_type",
+      "value": "种类"
+    },
+    {
+      "name": "page_number",
+      "value": "排名"
+    },
+    {
+      "name": "page_vote",
+      "value": "得票数"
+    },
+    {
+      "name": "prompt_text",
+      "value": "再按一次退出程序"
+    },
+    {
+      "name": "title",
+      "value": "排行榜"
+    },
+    {
+      "name": "title_default",
+      "value": " "
+    },
+    {
+      "name": "fruit_watermelon",
+      "value": "西瓜"
+    },
+    {
+      "name": "fruit_apple",
+      "value": "苹果"
+    },
+    {
+      "name": "fruit_banana",
+      "value": "香蕉"
+    },
+    {
+      "name": "fruit_grapes",
+      "value": "葡萄"
+    },
+    {
+      "name": "fruit_red_grape",
+      "value": "红提"
+    },
+    {
+      "name": "fruit_pears",
+      "value": "梨子"
+    },
+    {
+      "name": "fruit_pineapple",
+      "value": "菠萝"
+    },
+    {
+      "name": "fruit_durian",
+      "value": "榴莲"
+    },
+    {
+      "name": "fruit_guava",
+      "value": "番石榴"
+    },
+    {
+      "name": "fruit_carambola",
+      "value": "杨桃"
+    },
+    {
+      "name": "target_manage_title",
+      "value": "工作目标"
+    },
+    {
+      "name": "add_task",
+      "value": "添加子目标"
+    },
+    {
+      "name": "target_name",
+      "value": "第一季度运营目标"
+    },
+    {
+      "name": "target_info",
+      "value": "实现用户量与用户活跃度提升。"
+    },
+    {
+      "name": "overall_progress",
+      "value": "整体进度"
+    },
+    {
+      "name": "add_task_dialog",
+      "value": "添加子目标"
+    },
+    {
+      "name": "latest_updateTime",
+      "value": "更新时间: "
+    },
+    {
+      "name": "sub_goals",
+      "value": "子目标"
+    },
+    {
+      "name": "cancel_button",
+      "value": "取消"
+    },
+    {
+      "name": "confirm_button",
+      "value": "确定"
+    },
+    {
+      "name": "delete_button",
+      "value": "删除"
+    },
+    {
+      "name": "edit_button",
+      "value": "编辑"
+    },
+    {
+      "name": "select_all_button",
+      "value": "全选"
+    },
+    {
+      "name": "cannot_input_empty",
+      "value": "任务名称不能为空！"
+    },
+    {
+      "name": "input_target_name",
+      "value": "请输入子目标名称"
+    },
+    {
+      "name": "confirm",
+      "value": "确定"
+    },
+    {
+      "name": "cancel",
+      "value": "取消"
+    },
+    {
+      "name": "ring_duration",
+      "value": "闹铃时长"
+    },
+    {
+      "name": "ring_interval",
+      "value": "再响间隔"
+    },
+    {
+      "name": "ring_interval_content",
+      "value": "响铃间隔时间（分钟）"
+    },
+    {
+      "name": "ring_times_content",
+      "value": "重复响铃次数"
+    },
+    {
+      "name": "alarm_name",
+      "value": "闹钟名"
+    },
+    {
+      "name": "repeat_name",
+      "value": "重复"
+    },
+    {
+      "name": "new_alarm",
+      "value": "新建闹钟"
+    },
+    {
+      "name": "update_alarm",
+      "value": "修改闹钟"
+    },
+    {
+      "name": "delete",
+      "value": "删除"
+    },
+    {
+      "name": "reason",
+      "value": "通知"
+    }
+  ]
+}

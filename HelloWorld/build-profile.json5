@@ -1,0 +1,53 @@
+{
+  "app": {
+    "signingConfigs": [
+      {
+        "name": "default",
+        "type": "HarmonyOS",
+        "material": {
+          "certpath": "/Users/zhichao.zhang/.ohos/config/auto_debug_HelloWorld_com.zzc.helloworld_30086000578666917.cer",
+          "storePassword": "0000001BFC1CBBCF17DFFA8F0289FB04A2818E958F0FFF596140571A69861544D2A29AA5F72712E3574A24",
+          "keyAlias": "debugKey",
+          "keyPassword": "0000001B4E54CC7B583223757EBBA0EA2CF9327FE43F185551C4C426A6838DCE2899A425D9705EA192DB6F",
+          "profile": "/Users/zhichao.zhang/.ohos/config/auto_debug_HelloWorld_com.zzc.helloworld_30086000578666917.p7b",
+          "signAlg": "SHA256withECDSA",
+          "storeFile": "/Users/zhichao.zhang/.ohos/config/auto_debug_HelloWorld_com.zzc.helloworld_30086000578666917.p12"
+        }
+      }
+    ],
+    "compileSdkVersion": 9,
+    "compatibleSdkVersion": 9,
+    "products": [
+      {
+        "name": "default",
+        "signingConfig": "default",
+      }
+    ]
+  },
+  "modules": [
+    {
+      "name": "entry",
+      "srcPath": "./entry",
+      "targets": [
+        {
+          "name": "default",
+          "applyToProducts": [
+            "default"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "first_demo",
+      "srcPath": "./first_demo",
+      "targets": [
+        {
+          "name": "default",
+          "applyToProducts": [
+            "default"
+          ]
+        }
+      ]
+    }
+  ]
+}
